@@ -8,4 +8,4 @@
 
 # But not these files
 !.gitignore
-!*.java
+!src/*.java

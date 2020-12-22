@@ -1,5 +1,5 @@
 # Log file
 *.txt
 
-**/.idea
-*/out
+.idea/
+out/

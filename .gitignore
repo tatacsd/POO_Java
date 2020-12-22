@@ -1,11 +1,27 @@
-# # Log file
-# *.txt
-# *.xml
-# *.class
-# Ignore everything
-*
-/.idea/**
+### Java ###
+# Compiled class file
+*.class
 
-# But not these files
-!.gitignore
-!src/*.java
+# Log file
+*.log
+
+# Text files
+*.txt
+
+# BlueJ files
+*.ctxt
+
+# xml files
+*.xml
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar

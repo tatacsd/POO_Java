@@ -1,5 +1,7 @@
 # Log file
 *.txt
+*.xml
+*.class
 
 .ideaout/
 out/

@@ -1,0 +1,29 @@
+OOP - Object oriented Programming
+
+como era?
+- programação baixo nivel (machine language)
+- programação linear
+- programação estruturada (fora de ordem)
+- Programação modular (vida reduzida)
+- POO
+
+Quem criou POO?
+- Alan Kay 1970
+
+como era?
+Dados globais -> procedimentos
+
+como ficou?
+dados de objetos -> metodo do objeto
+
+vantagens: COMERNada
+- Confiavel -> ao alterar uma parte nenhuma outra é afetada
+- Oportuno -> as partes podem ser divididas em paralelo
+- Manutenivel -> uma modificação nao precisa mexer em todo o codigo
+- Extensivel -> não deixa o codigo estático, basta adicionar novas funcionalidades
+- Reutilizavel
+- Natural -> mais facil de entender. foco na funcionalidades
+
+
+
+

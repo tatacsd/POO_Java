@@ -1,7 +1,10 @@
-# Log file
-*.txt
-*.xml
-*.class
+# # Log file
+# *.txt
+# *.xml
+# *.class
+# Ignore everything
+*
 
-.ideaout/
-out/
+# But not these files
+!.gitignore
+!*.java

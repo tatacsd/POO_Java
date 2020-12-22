@@ -1,4 +1,5 @@
 # Log file
 *.txt
 
-*.idea
+**/.idea
+*/out
